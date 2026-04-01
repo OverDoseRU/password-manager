@@ -1,4 +1,4 @@
-# ![Ruby](https://img.shields.io/badge/Ruby-4.0.2-CC342D?logo=ruby) Password Manager
+# ![License](https://img.shields.io/badge/License-MIT-green) Password Manager
 
 Менеджер паролей с шифрованием AES-256-GCM.
 
@@ -18,7 +18,7 @@
 
 ## Установка и запуск
 
-1. Установите Ruby (рекомендуется версия 4.0+)
+1. Установите ![Ruby](https://img.shields.io/badge/Ruby-4.0.2-CC342D?logo=ruby)
 2. Склонируйте репозиторий:
    ```bash
    git clone https://github.com/ваш-логин/password-manager.git
