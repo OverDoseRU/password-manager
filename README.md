@@ -1,4 +1,4 @@
-# Password Manager
+# ![Ruby](https://img.shields.io/badge/Ruby-4.0.2-CC342D?logo=ruby) Password Manager
 
 Простой менеджер паролей на Ruby с шифрованием AES-256-GCM.
 
