@@ -1,14 +1,8 @@
 passwords.txt
 master.hash
-
-# VS Code и Ruby LSP
 .ruby-lsp/
 .vscode/
-
-# Временные файлы
 *.tmp
 *.log
-
-# Системные файлы
 .DS_Store
 Thumbs.db
